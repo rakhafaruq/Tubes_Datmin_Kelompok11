@@ -1,8 +1,8 @@
 streamlit
 pandas
 numpy
-scikit-learn==0.24.2
+scikit-learn
 matplotlib
 seaborn
 scipy
-imbalanced-learn==0.13.0
+imbalanced-learn
